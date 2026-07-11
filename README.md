@@ -156,15 +156,9 @@ customer-churn-analysis/
 
 The Power BI dashboard was designed as an executive decision-support tool, enabling business stakeholders to monitor customer churn, analyze customer behavior, and identify high-risk segments through interactive visualizations.
 
-## Dashboard Overview
+## 📊 Dashboard Preview
 
-
-
-<p align="center">
-  <img src="C:\Users\USER\OneDrive\Pictures\Screenshots\dashboard.png" alt="Customer Churn Dashboard" width="100%">
-</p>
-
----
+![Customer Churn Dashboard](images/dashboard.png)
 
 ### Dashboard Features
 
