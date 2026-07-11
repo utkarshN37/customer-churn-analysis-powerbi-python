@@ -186,6 +186,19 @@ The dashboard monitors the following business KPIs to evaluate customer retentio
 | 💳 Contract Type Distribution | Compares Monthly vs Annual customers |
 | ⭐ Subscription Plan Distribution | Analyzes customer plan preferences |
 
+# 📈 Project Results
+
+This project transformed raw customer data into actionable business intelligence using Python and Power BI.
+
+## Results
+
+- ✅ Analyzed and validated **5,000 customer records**
+- ✅ Built an interactive **Power BI dashboard** with executive KPIs
+- ✅ Identified the **top churn drivers** (contract type, customer satisfaction, complaints, escalations)
+- ✅ Developed **8+ KPIs** for customer retention monitoring
+- ✅ Delivered **7 business recommendations** to reduce churn
+- ✅ Demonstrated an end-to-end analytics workflow using **Python, Pandas, NumPy, Power BI, and DAX**
+
 # 💡 Key Business Insights
 
 The analysis uncovered several important business insights that directly influence customer retention and long-term profitability.
